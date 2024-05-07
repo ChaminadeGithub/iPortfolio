@@ -1071,6 +1071,28 @@ section {
   }
 }
 
+
+
+/* button contactez-moi que jai ajouter */
+.contact-button {
+  background-color: rgb(9, 162, 223);
+  color: black;
+  border: 2px solid yellow;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-button:hover {
+  background-color: rgb(236, 202, 9);
+}
+
+
+
+
+
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/

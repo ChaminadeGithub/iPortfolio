@@ -1,0 +1,14 @@
+.contact-button {
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact-button:hover {
+    background-color: rgb(236, 202, 9);
+  }
+  
